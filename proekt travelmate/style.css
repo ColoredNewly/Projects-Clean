@@ -1,0 +1,145 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* BODY */
+body {
+  background: #f4f6f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* HEADER */
+header {
+  background: #2b7cff;
+  color: white;
+  text-align: center;
+  padding: 25px 10px;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  margin-bottom: 5px;
+}
+
+/* MAIN LAYOUT */
+main {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+/* SECTIONS */
+section {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+section h2 {
+  margin-bottom: 15px;
+  color: #2b7cff;
+}
+
+/* CARD */
+.card {
+  background: #f9fafc;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #e3e6ee;
+}
+
+/* INPUTS */
+input {
+  padding: 10px;
+  margin: 5px 5px 10px 0;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+button {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  background: #2b7cff;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.2s;
+}
+
+button:hover {
+  background: #1f63d6;
+}
+
+/* FLEX INPUT GROUPS */
+.budget-inputs,
+.todo-inputs {
+  margin-bottom: 15px;
+}
+
+/* TABLE */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+}
+
+th {
+  background: #f1f4fb;
+}
+
+/* TODO LIST */
+#todoList {
+  list-style: none;
+}
+
+#todoList li {
+  background: #f9fafc;
+  padding: 10px;
+  margin-bottom: 8px;
+  border-radius: 6px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #e3e6ee;
+}
+
+.todo-done {
+  text-decoration: line-through;
+  color: gray;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 15px;
+  color: #777;
+  margin-top: 20px;
+}
+
+/* RESPONSIVE */
+@media (max-width: 600px) {
+  input {
+    width: 100%;
+    margin-right: 0;
+  }
+
+  button {
+    width: 100%;
+    margin-bottom: 8px;
+  }
+}

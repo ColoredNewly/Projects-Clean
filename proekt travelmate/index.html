@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="mk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TravelMate – Туристички асистент</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>🌍 TravelMate</h1>
+    <p>Твој туристички асистент</p>
+  </header>
+
+  <main>
+
+    <!-- SEARCH SECTION -->
+    <section class="search-section">
+      <h2>🔍 Пребарај дестинација</h2>
+      <input type="text" id="destinationInput" placeholder="Внеси држава или град..." />
+      <button id="searchBtn">Пребарај</button>
+    </section>
+
+    <!-- DESTINATION INFO -->
+    <section class="info-section">
+      <h2>ℹ️ Информации</h2>
+      <div id="destinationInfo" class="card">
+        <p>Нема податоци...</p>
+      </div>
+    </section>
+
+    <!-- WEATHER -->
+    <section class="weather-section">
+      <h2>🌦️ Временска прогноза</h2>
+      <div id="weatherInfo" class="card">
+        <p>Нема податоци...</p>
+      </div>
+    </section>
+
+    <!-- BUDGET PLANNER -->
+    <section class="budget-section">
+      <h2>💰 Буџет планер</h2>
+
+      <div class="budget-inputs">
+        <input type="text" id="expenseName" placeholder="Име на трошок" />
+        <input type="number" id="expenseAmount" placeholder="Износ" />
+        <button id="addExpenseBtn">Додај</button>
+      </div>
+
+      <table id="budgetTable">
+        <thead>
+          <tr>
+            <th>Трошок</th>
+            <th>Износ</th>
+            <th>Акција</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+
+      <h3>Вкупно: <span id="totalAmount">0</span> €</h3>
+      <div class="currency-convert">
+        <h3>💱 Конверзија на валута</h3>
+
+    <input list="currenciesList" id="homeCurrency" placeholder="Внесете валута..." />
+    <datalist id="currenciesList"></datalist>
+
+
+        <button id="convertBtn">Конвертирај</button>
+
+        <p id="convertedResult">—</p>
+        </div>
+
+    </section>
+
+    <!-- TODO LIST -->
+    <section class="todo-section">
+      <h2>✅ To-Do активности</h2>
+
+      <div class="todo-inputs">
+        <input type="text" id="todoInput" placeholder="Нова активност..." />
+        <button id="addTodoBtn">Додај</button>
+      </div>
+
+      <ul id="todoList"></ul>
+    </section>
+
+    <!-- TRIP MANAGER -->
+    <section class="trip-section">
+        <h2>🧳 Мои патувања</h2>
+
+        <div class="trip-inputs">
+        <input type="text" id="tripNameInput" placeholder="Име на патување..." />
+        <button id="addTripBtn">Додај патување</button>
+        </div>
+    </section>
+
+    <!-- ALL TRIPS OVERVIEW -->
+    <section class="all-trips-section">
+      <h2>📋 Преглед на сите патувања</h2>
+      <div id="allTripsContainer"></div>
+    </section>
+
+
+  </main>
+
+  <footer>
+    <p>© 2026 TravelMate</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
