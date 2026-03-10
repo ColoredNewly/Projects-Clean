@@ -109,4 +109,3 @@ A Python application for automating the creation of **YouTube Shorts videos**.
 
 ---
 
-> Made with ❤️ by **Bojan Novkovski**
