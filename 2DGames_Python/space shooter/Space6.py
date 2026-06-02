@@ -1,5 +1,7 @@
 import pygame
 import os
+# Make current working directory the script's folder
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 import time
 import random
 pygame.font.init()
