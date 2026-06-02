@@ -1,0 +1,1 @@
+In visual studio, locate to the folder that contains manage.py, go Terminal -> New Terminal and type in: python .\manage.py runserver. Then copy the link and paste it is a browser.
