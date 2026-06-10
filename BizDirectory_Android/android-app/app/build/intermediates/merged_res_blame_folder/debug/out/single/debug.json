@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.bizdir.app-merged_res-33:/drawable_ic_business.xml.flat",
+        "source": "com.bizdir.app-main-35:/drawable/ic_business.xml"
+    },
+    {
+        "merged": "com.bizdir.app-merged_res-33:/menu_menu_main.xml.flat",
+        "source": "com.bizdir.app-main-35:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.bizdir.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.bizdir.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.bizdir.app-merged_res-33:/layout_activity_add_company.xml.flat",
+        "source": "com.bizdir.app-main-35:/layout/activity_add_company.xml"
+    },
+    {
+        "merged": "com.bizdir.app-merged_res-33:/drawable_bg_edit_text.xml.flat",
+        "source": "com.bizdir.app-main-35:/drawable/bg_edit_text.xml"
+    },
+    {
+        "merged": "com.bizdir.app-merged_res-33:/layout_fragment_category.xml.flat",
+        "source": "com.bizdir.app-main-35:/layout/fragment_category.xml"
+    },
+    {
+        "merged": "com.bizdir.app-merged_res-33:/layout_item_company.xml.flat",
+        "source": "com.bizdir.app-main-35:/layout/item_company.xml"
+    }
+]

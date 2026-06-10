@@ -1,0 +1,36 @@
+com.bizdir.app-jetified-savedstate-1.2.1-0 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\0cf078e231c3b895a1b5aa91db2ae3a7\workspace\transformed\jetified-savedstate-1.2.1\res
+com.bizdir.app-recyclerview-1.1.0-1 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\1c34a060fd2ea8aeaffb418896fba767\workspace\transformed\recyclerview-1.1.0\res
+com.bizdir.app-coordinatorlayout-1.1.0-2 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\1d6bb148cbbcefd608de7666c498c706\workspace\transformed\coordinatorlayout-1.1.0\res
+com.bizdir.app-lifecycle-livedata-core-2.6.1-3 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\22ef4e8b79d4ceec88752439da6ab7c5\workspace\transformed\lifecycle-livedata-core-2.6.1\res
+com.bizdir.app-core-1.9.0-4 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\235cc8aa72b372d68d83261199c4daf8\workspace\transformed\core-1.9.0\res
+com.bizdir.app-lifecycle-livedata-2.6.1-5 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\340c1b559d59bb681547ccca7e38ff71\workspace\transformed\lifecycle-livedata-2.6.1\res
+com.bizdir.app-material-1.11.0-6 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\3fa6bc074bded5c19add02245462aa3d\workspace\transformed\material-1.11.0\res
+com.bizdir.app-jetified-lifecycle-process-2.6.1-7 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\43e3434abc6f561a865263b25e5f9c39\workspace\transformed\jetified-lifecycle-process-2.6.1\res
+com.bizdir.app-jetified-play-services-basement-18.1.0-8 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\4eaf694eb03061043d530b41df5a5e69\workspace\transformed\jetified-play-services-basement-18.1.0\res
+com.bizdir.app-appcompat-1.6.1-9 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\51f94045c2a9267964a19bb66aabd2c8\workspace\transformed\appcompat-1.6.1\res
+com.bizdir.app-constraintlayout-2.1.4-10 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\63201b324deb5565e6a8055d58c9a369\workspace\transformed\constraintlayout-2.1.4\res
+com.bizdir.app-jetified-appcompat-resources-1.6.1-11 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\7110eb82934e5bda33b8fac41bf11c5d\workspace\transformed\jetified-appcompat-resources-1.6.1\res
+com.bizdir.app-lifecycle-viewmodel-2.6.1-12 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\7734b0db6ea42dc994e03b0917178fdc\workspace\transformed\lifecycle-viewmodel-2.6.1\res
+com.bizdir.app-jetified-core-ktx-1.9.0-13 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\796057a010723951139939d3a4e104dd\workspace\transformed\jetified-core-ktx-1.9.0\res
+com.bizdir.app-lifecycle-runtime-2.6.1-14 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\7b74e3b592168aab32ed69a147d2e0ff\workspace\transformed\lifecycle-runtime-2.6.1\res
+com.bizdir.app-jetified-emoji2-1.2.0-15 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\8188b3f2fc933566c587b479404e4f39\workspace\transformed\jetified-emoji2-1.2.0\res
+com.bizdir.app-jetified-startup-runtime-1.1.1-16 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\8e481aa82bdabb9f56d5710c1a1a014d\workspace\transformed\jetified-startup-runtime-1.1.1\res
+com.bizdir.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-17 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\9838dcef99782f0e5a0437de10f4d412\workspace\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.bizdir.app-jetified-activity-1.8.0-18 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\9db9d7896c78aa59b3975a0640e317a5\workspace\transformed\jetified-activity-1.8.0\res
+com.bizdir.app-cardview-1.0.0-19 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\a87e9720b22dcea4657d8635c234113d\workspace\transformed\cardview-1.0.0\res
+com.bizdir.app-jetified-profileinstaller-1.3.0-20 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\af427187996f72a735b7a2afdccc68a5\workspace\transformed\jetified-profileinstaller-1.3.0\res
+com.bizdir.app-jetified-play-services-base-18.1.0-21 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\bd63c7e59a21374993a86d7a9c54ee44\workspace\transformed\jetified-play-services-base-18.1.0\res
+com.bizdir.app-jetified-emoji2-views-helper-1.2.0-22 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\d464517f65b74219a8d182745613ca57\workspace\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.bizdir.app-core-runtime-2.2.0-23 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\d8c2cbb4ba6293169306643249048312\workspace\transformed\core-runtime-2.2.0\res
+com.bizdir.app-fragment-1.3.6-24 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\dad18f379148eb28f51b826d02909970\workspace\transformed\fragment-1.3.6\res
+com.bizdir.app-jetified-annotation-experimental-1.3.0-25 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\e54a418b8610b909e03f7a34c831a5df\workspace\transformed\jetified-annotation-experimental-1.3.0\res
+com.bizdir.app-transition-1.2.0-26 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\eb1961db25eca4c2eb81bc7a2005cd57\workspace\transformed\transition-1.2.0\res
+com.bizdir.app-jetified-viewpager2-1.0.0-27 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\fe75baa4d3a5a7ca06888cd4b1d23652\workspace\transformed\jetified-viewpager2-1.0.0\res
+com.bizdir.app-drawerlayout-1.1.1-28 C:\Users\bnovk\.gradle\caches\9.3.0\transforms\ff2cc31544b3be386c285f730d15671e\workspace\transformed\drawerlayout-1.1.1\res
+com.bizdir.app-pngs-29 C:\Users\bnovk\Desktop\New folder (2)\BizDirectory\android-app\app\build\generated\res\pngs\debug
+com.bizdir.app-resValues-30 C:\Users\bnovk\Desktop\New folder (2)\BizDirectory\android-app\app\build\generated\res\resValues\debug
+com.bizdir.app-packageDebugResources-31 C:\Users\bnovk\Desktop\New folder (2)\BizDirectory\android-app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.bizdir.app-packageDebugResources-32 C:\Users\bnovk\Desktop\New folder (2)\BizDirectory\android-app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.bizdir.app-debug-33 C:\Users\bnovk\Desktop\New folder (2)\BizDirectory\android-app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.bizdir.app-debug-34 C:\Users\bnovk\Desktop\New folder (2)\BizDirectory\android-app\app\src\debug\res
+com.bizdir.app-main-35 C:\Users\bnovk\Desktop\New folder (2)\BizDirectory\android-app\app\src\main\res

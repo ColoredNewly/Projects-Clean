@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">БизДирект</string>
+    <string name="tab_services">Сервиси</string>
+    <string name="tab_entertainment">Забава</string>
+    <string name="tab_industry">Индустрија</string>
+    <string name="tab_education">Едукација</string>
+    <string name="search_hint">Пребарај компании...</string>
+    <string name="add_company">Додади компанија</string>
+    <string name="save">Зачувај</string>
+    <string name="no_companies">Нема компании во оваа категорија</string>
+</resources>
